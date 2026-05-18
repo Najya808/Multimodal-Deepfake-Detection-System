@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+frames/
+faces/
+sample.mp4
+*.mp4
+*.pth
+.env
